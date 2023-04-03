@@ -1,6 +1,6 @@
 # Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Click on the following link to take a peak [NUXT3-MERCH](https://sage-cucurucho-3f9615.netlify.app/products).
 
 ## Setup
 
@@ -38,5 +38,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
