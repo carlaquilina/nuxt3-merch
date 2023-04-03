@@ -1,6 +1,6 @@
 # Nuxt 3 Minimal Starter
 
-Click on the following link to take a peak [NUXT3-MERCH](https://sage-cucurucho-3f9615.netlify.app/products).
+Click on the following link to take a peak [NUXT3-MERCH](https://sage-cucurucho-3f9615.netlify.app/).
 
 ## Setup
 
